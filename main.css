@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(to right,yellow,white,yellow);
+    padding:50px;
+}
+a{
+    color:black;background-color:white;width:200px;height:30px;border:2px solid black;margin:20px;text-align:center;
+}
+p{
+    color:black;background-color:white;width:200px;height:40px;border:2px solid black;margin:20px;padding:3px;
+
+}
+tr,th,td{
+    color:black;background-color:white;margin:20px;
+}
+table{
+    background-color:white;border:2px solid black;
+}
